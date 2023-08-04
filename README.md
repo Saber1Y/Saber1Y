@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Quizzer](https://quizzer-irp7qwnmv-saber1y.vercel.app/)
 
-- 🌱 I’m currently learning **Vanilla JavaScript**
+- 🌱 I’m currently learning **Tailwind Css**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
