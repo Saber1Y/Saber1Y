@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [% Vanilla java-Scripts Project]()
+- 🔭 I’m currently working on [Vanilla java-Scripts Project]()
 
-- 🌱 I’m currently learning **Tailwind Css**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
