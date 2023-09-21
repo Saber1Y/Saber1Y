@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Vanilla java-Scripts Project]()
+- 🔭 I’m currently working on [10 Vanilla java-Scripts Projects]()
 
 - 🌱 I’m currently learning **Solidity**
 
