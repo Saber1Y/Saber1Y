@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on [10 React Based Projects]()
+- 🔭 I’m currently working on [Portfolio]()
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
