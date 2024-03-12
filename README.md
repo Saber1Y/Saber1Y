@@ -1,4 +1,4 @@
-![MasterHead](<img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" alt="GIF" />)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0NHNzZnpjcnI3cXdwcXg4NzN0emtjdTkzZzV4a2dwdGY0c3U4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
 
 <h1 align="center">Hi 👋, I'm Saber</h1>
 <h3 align="center">An Aspiring Full-Stack Blockchain developer.</h3>
@@ -30,3 +30,15 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saber1y&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
+
+![](https://github-readme-stats.vercel.app/api?username=Saber1Y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saber1Y&theme=dark&hide_border=false)<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saber1Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
