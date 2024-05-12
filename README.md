@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Portfolio]()
+- 🔭 I’m currently working on m [Portfolio]()
 
 - 🌱 I’m currently learning & practicing **Next.js**
 
