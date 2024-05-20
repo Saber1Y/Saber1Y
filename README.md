@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my [Portfolio]()
 
-- 🌱 I’m currently learning & practicing **Next.js**
+- 🌱 I’m currently Learning & Practicing **Next.js**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
