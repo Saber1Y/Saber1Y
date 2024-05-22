@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on my [Portfolio]()
 
-- 🌱 I’m currently Learning & Practicing **Next.js**
+- 🌱 I’m currently Learning  **Next.js**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
 - ⚡ Fun fact **I'm also Gamer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
