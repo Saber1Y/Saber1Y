@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on my [Portfolio]()
+- 🔭 I’m currently working on  [BlockBlaze]()
 
 - 🌱 I’m currently Learning  **Next.js**
 
@@ -16,7 +16,7 @@
 
 - 💻 Portfolio Website: **https://saber-dev.vercel.app**
 
-- 🌲 All My Links: *Linkt.ree.com/saber1Y*
+- 🌲 All My Links: *[Linkt.ree.com/saber1Y](https://linktr.ee/saber1Y)*
 
 - ⚡ Fun fact **I'm also Gamer**
 
