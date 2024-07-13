@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on  [BlockBlaze]()
+- 🔭 I’m currently working on  []()
 
-- 🌱 I’m currently Learning  **Next.js**
+- 🌱 I’m currently Learning  **Solidity**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
