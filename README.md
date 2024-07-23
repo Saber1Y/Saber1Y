@@ -32,6 +32,8 @@
 </a>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><a href="https://www.buymeacoffee.com/Saber1Y"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Saber1Y&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saber1y&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
 
