@@ -87,7 +87,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Personal Github Stats
-|![](https://github-readme-stats.vercel.app/api?username=saber1y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+|![](https://github-readme-stats.vercel.app/api?username=Saber1Y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saber1Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
