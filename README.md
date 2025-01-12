@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on  [SABER.PUMP]()
 
-- 🌱 I’m currently Learning  **Solidity**
+- 🌱 I’m currently Learning  **Foundry**
 
 - 📫 How to reach me **ayodejiakintobi1@gmail.com**
 
