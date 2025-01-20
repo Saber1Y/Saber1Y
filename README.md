@@ -18,7 +18,7 @@
 
 - 🌲 All My Links: *[Linkt.ree.com/saber1Y](https://linktr.ee/saber1Y)*
 
-- ⚡ Fun fact **I'm also Gamer**
+- ⚡ Fun fact **I'm also Mobile Gamer**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
