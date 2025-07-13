@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on  [WEB3NEST]()
+- 🔭 I’m currently working on  [CAPITA dApps]()
 
 - 🌱 I’m currently Learning  **Foundry**
 
@@ -36,14 +36,9 @@
 <p>Frontend: </p>
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,scss,javascript,typescript,react,nextjs,wagmi,viem" /><br>
     <p>Backend: </p>
-    <img src="https://skillicons.dev/icons?i=solidity,foundry,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,foundry,nodejs,supabase" /><br>
     <p>Tools: </p>
     <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" /><br>
-
-
-
-
-
 
 <p><a href="https://www.buymeacoffee.com/Saber1Y"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Saber1Y&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a></p>
 
