@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on  [CAPITA dApps]()
+- 🔭 I’m currently working on  [Shoply]()
 
 - 🌱 I’m currently Learning  **Foundry**
 
