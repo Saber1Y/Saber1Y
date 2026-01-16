@@ -48,9 +48,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saber1Y&theme=dark&hide_border=false)<br/>
 
+## Most Written Languages
+![](https://github-readme-stats-gules-three-60.vercel.app/api/top-langs/?username=Saber1Y&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats-gules-three-60.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Personal Github Stats
 |![](https://github-readme-stats.vercel.app/api?username=Saber1Y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
